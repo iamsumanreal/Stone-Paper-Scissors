@@ -99,6 +99,7 @@ body{
 
 #score1, #score2{
   margin-bottom: 5%;
+  font-size: medium;
 }
 .box1{
   border: 5px solid black;
